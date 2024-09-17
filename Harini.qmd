@@ -1,6 +1,9 @@
 ---
 title: "Harini"
 editor: source
+format: 
+  html:
+    embed-resources: true
 author: Harini
 date: today 
 ---
